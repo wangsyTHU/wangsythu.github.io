@@ -4,6 +4,6 @@ My research focuses on improving and applying AI and optimization to enhance the
 
 * Apply AI and optimization to enhance the security and efficiency of energy systems.
 * Quantify the flexibility of distributed and integrated energy resources.
-* Plan and optimize emerging large electric loads.
+* Model and optimize emerging large electric loads.
 * Monitor system operations using AI and multimodal sensing data.
-* Provide insights to support sustainable energy and climate policy.
+* Provide policy insights to support the low-carbon energy transition.
