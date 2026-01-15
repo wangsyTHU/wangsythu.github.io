@@ -2,17 +2,17 @@ type = "about"
 title = "About"
 
 [profile]
-research_interests = [
+key_words = [
   "AI & optimization",
   "AI & multimodal data",
-  "Flexibility aggregation",
-  "System states monitoring",
-  "Optimal operation & control",
-  "Energy policy analysis",
+  "Distributed energy resources",
   "Data center",
-  "Electrified industry",
+  "Multi-energy system",
   "Virtual power plant",
-  "Multi-energy system"
+  "Electrified industry",
+  "Flexibility aggregation",
+  "Optimal operation & control",
+  "Energy policy analysis"
 ]
 
 [[sections]]

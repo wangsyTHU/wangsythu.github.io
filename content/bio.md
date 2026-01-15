@@ -3,7 +3,7 @@ I am now a Schmidt AI in Science Postdoctoral Associate at Cornell University in
 My research focuses on improving and applying AI and optimization to enhance the secure and efficient operation of energy systems in the transition to a low-carbon future. My work includes:
 
 * Apply AI and optimization to enhance the security and efficiency of energy systems.
-* Quantify the flexibility of distributed and integrated energy resources.
+* Quantify the flexibility of distributed energy resources and integrated energy systems.
 * Model and optimize emerging large electric loads.
-* Monitor system operations using AI and multimodal sensing data.
 * Provide policy insights to support the low-carbon energy transition.
+* Monitor system operations using AI and multimodal sensing data.
