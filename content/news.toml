@@ -1,27 +1,38 @@
-[[news]]
+type = "list"
+title = "News"
+
+[[items]]
+date = "2026-01"
+content = "Our paper entitled *Aggregation Reference Model and Quantitative Metric System of Flexible Energy Resources* was awarded **First Prize in the 2024 Outstanding Paper Awards** of *Automation of Electric Power Systems*. This paper was also certified as a **High PCSI Paper**, a **Highly Cited Paper** and a **Highly Downloaded Paper** by China Scientific Literature Metrology and Evaluation Research Center."
+
+[[items]]
+date = "2025-11"
+content = "Our paper entitled *Aggregate Flexibility of Virtual Power Plants with Temporal Coupling Constraints* has reached the milestone of **200 citations**. The sample code is provided [here](https://github.com/wangsyTHU/sample_of_boundary_shrinkage)."
+
+[[items]]
 date = "2025-09"
-content = "I start my **Schmidt AI in Science Postdoctoral Associate** position at Cornell University with the **Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship**."
+content = "I started my **Schmidt AI in Science Postdoctoral Associate** position at Cornell University with the **Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship**."
 
-[[news]]
+[[items]]
 date = "2024-09"
-content = "I start my **Ezra Postdoctoral Associate** position at Cornell University."
+content = "I started my **Ezra Postdoctoral Associate** position at Cornell University."
 
-[[news]]
+[[items]]
 date = "2024-07"
-content = "Our paper entitled *Stochastic Flexibility Evaluation for Virtual Power Plant by Aggregating Distributed Energy Resources* is selected as an **ESI Top 1% Highly Cited Paper**."
+content = "Our paper entitled *Stochastic Flexibility Evaluation for Virtual Power Plant by Aggregating Distributed Energy Resources* was selected as an **ESI Top 1% Highly Cited Paper**."
 
-[[news]]
+[[items]]
 date = "2024-06"
-content = "I graduate from Tsinghua University with the honors **Beijing & Tsinghua Outstanding Ph.D. Graduate** and **Tsinghua Outstanding Ph.D. Dissertation**."
+content = "I graduated from Tsinghua University with the honors **Beijing & Tsinghua Outstanding Ph.D. Graduate** and **Tsinghua Outstanding Ph.D. Dissertation**."
 
-[[news]]
+[[items]]
 date = "2024-05"
 content = "I have successfully passed my Ph.D. dissertation defense, entitled *Flexibility Aggregation and Coordination of Diverse Energy Resources*."
 
-[[news]]
+[[items]]
 date = "2024-05"
 content = "I was selected as a **Tsinghua Cercis Scholar**."
 
-[[news]]
+[[items]]
 date = "2023-12"
 content = "I received the **Tsinghua University Jiang Nanxiang Principal Scholarship**."

@@ -63,12 +63,10 @@ export default function Navigation({ items, siteTitle, enableOnePageMode }: Navi
 
       const observer = new IntersectionObserver(observerCallback, observerOptions);
 
-      // Observe all sections
+      // Observe all matching section anchors that exist on the page
       items.forEach(item => {
-        if (item.type === 'page') {
-          const element = document.getElementById(item.target);
-          if (element) observer.observe(element);
-        }
+        const element = document.getElementById(item.target);
+        if (element) observer.observe(element);
       });
 
       return () => {

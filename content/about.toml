@@ -27,8 +27,3 @@ type = "markdown"
 title = "Research Grants and Fellowships"
 source = "grants.md"
 
-[[sections]]
-id = "news"
-type = "list"
-source = "news.toml"
-title = "News"

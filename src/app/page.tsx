@@ -225,35 +225,44 @@ export default function Home() {
           {pagesToShow.map((page) => (
             <section key={page.id} id={page.id} className="scroll-mt-24 space-y-8">
               {page.type === 'about' && page.sections.map((section: SectionConfig) => {
+                let content: JSX.Element | null = null;
                 switch (section.type) {
                   case 'markdown':
-                    return (
+                    content = (
                       <About
-                        key={section.id}
                         content={section.content || ''}
                         title={section.title}
                       />
                     );
+                    break;
                   case 'publications':
-                    return (
+                    content = (
                       <SelectedPublications
-                        key={section.id}
                         publications={section.publications || []}
                         title={section.title}
                         enableOnePageMode={enableOnePageMode}
                       />
                     );
+                    break;
                   case 'list':
-                    return (
+                    content = (
                       <News
-                        key={section.id}
                         items={section.items || []}
                         title={section.title}
                       />
                     );
+                    break;
                   default:
-                    return null;
+                    content = null;
                 }
+
+                if (!content) return null;
+                const sectionId = section.id && section.id !== page.id ? section.id : undefined;
+                return (
+                  <section key={section.id} id={sectionId} className={sectionId ? 'scroll-mt-24' : undefined}>
+                    {content}
+                  </section>
+                );
               })}
               {page.type === 'publication' && (
                 <PublicationsList

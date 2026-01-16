@@ -33,6 +33,14 @@ export default function News({ items, title = 'News' }: NewsProps) {
                                     p: ({ children }) => <p className="m-0">{children}</p>,
                                     strong: ({ children }) => <strong className="font-semibold text-primary dark:text-white">{children}</strong>,
                                     em: ({ children }) => <em className="italic text-neutral-600 dark:text-white">{children}</em>,
+                                    a: ({ ...props }) => (
+                                        <a
+                                            {...props}
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            className="text-accent font-medium transition-all duration-200 rounded hover:bg-accent/10 hover:shadow-sm"
+                                        />
+                                    ),
                                 }}
                             >
                                 {item.content || ''}
