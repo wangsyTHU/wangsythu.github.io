@@ -216,6 +216,13 @@ body {
   color: var(--accent);
 }
 
+.md-link {
+  color: var(--accent);
+  font-weight: 500;
+  border-radius: 0.25rem;
+  transition: all 0.2s ease;
+}
+
 /* Custom scrollbar */
 ::-webkit-scrollbar {
   width: 8px;

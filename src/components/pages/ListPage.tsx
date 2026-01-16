@@ -12,6 +12,7 @@ interface ListPageProps {
 
 export default function ListPage({ config, embedded = false }: ListPageProps) {
     const items = Array.isArray(config.items) ? config.items : [];
+    const applyAccentMarkup = (content: string) => content.replace(/==([^=]+)==/g, '<span class="md-link">$1</span>');
 
     return (
         <motion.div
@@ -36,11 +37,7 @@ export default function ListPage({ config, embedded = false }: ListPageProps) {
                                 skipHtml={false}
                                 components={{
                                     p: ({ children }) => <p className="m-0">{children}</p>,
-                                    strong: ({ children }) => (
-                                        <strong className="text-accent font-medium transition-all duration-200 rounded">
-                                            {children}
-                                        </strong>
-                                    ),
+                                    strong: ({ children }) => <strong className="font-semibold">{children}</strong>,
                                     em: ({ children }) => <em className="italic text-neutral-600 dark:text-white">{children}</em>,
                                     a: ({ ...props }) => (
                                         <a
@@ -52,7 +49,7 @@ export default function ListPage({ config, embedded = false }: ListPageProps) {
                                     ),
                                 }}
                             >
-                                {item.content || ''}
+                                {applyAccentMarkup(item.content || '')}
                             </ReactMarkdown>
                         </div>
                     </div>
