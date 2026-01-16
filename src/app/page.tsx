@@ -11,6 +11,8 @@ import CardPage from '@/components/pages/CardPage';
 import ListPage from '@/components/pages/ListPage';
 import SectionPage, { ResolvedSection } from '@/components/pages/SectionPage';
 
+import type { ReactElement } from 'react';
+
 import { Publication } from '@/types/publication';
 import {
   BasePageConfig,
@@ -225,7 +227,7 @@ export default function Home() {
           {pagesToShow.map((page) => (
             <section key={page.id} id={page.id} className="scroll-mt-24 space-y-8">
               {page.type === 'about' && page.sections.map((section: SectionConfig) => {
-                let content: JSX.Element | null = null;
+                let content: ReactElement | null = null;
                 switch (section.type) {
                   case 'markdown':
                     content = (
