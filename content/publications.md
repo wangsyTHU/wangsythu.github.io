@@ -7,7 +7,7 @@
 
 1. **S. Wang**, W. Wu\*, Q. Chen, J. Yu, and P. Wang, "Stochastic Flexibility Evaluation for Virtual Power Plant by Aggregating Distributed Energy Resources," *CSEE Journal of Power and Energy Systems*, vol. 10, no. 3, pp. 988-999, May 2024, doi: [10.17775/CSEEJPES.2021.07410](https://ieeexplore.ieee.org/document/9862584). (***ESI Top 1% Highly Cited Paper in July 2024***)
 
-1. **S. Wang** and W. Wu\*, “Aggregation Reference Model and Quantitative Metric System of Flexible Energy Resources,” *Automation of Electric Power Systems*, vol. 48, no. 03, pp. 1-9, Feb. 2024, doi: [10.7500/AEPS20230728003](http://www.aeps-info.com/aeps/article/abstract/20230728003). (***First Price, 2024 Best Paper Award***)
+1. **S. Wang** and W. Wu\*, “Aggregation Reference Model and Quantitative Metric System of Flexible Energy Resources,” *Automation of Electric Power Systems*, vol. 48, no. 03, pp. 1-9, Feb. 2024, doi: [10.7500/AEPS20230728003](http://www.aeps-info.com/aeps/article/html/20230728003). (***First Price, 2024 Best Paper Award***)
 
 1. **S. Wang**, C. Feng, and F. You\*,"Non-Iterative Coordination of Interconnected Power Grids via Dimension-Decomposition-Based Flexibility Aggregation", *IEEE Transactions on Power Systems*, vol. 41, no. 1, pp. 705-717, Jan. 2026, doi: [10.1109/TPWRS.2025.3598762](https://ieeexplore.ieee.org/document/11124410).
 
