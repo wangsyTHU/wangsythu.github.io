@@ -202,7 +202,7 @@ export default function Profile({ author, social, features, researchInterests }:
             className="sticky top-22"
         >
             {/* Profile Image */}
-            <div className="w-[14.4rem] h-[14.4rem] mx-auto mb-6 rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all duration-200 hover:scale-105">
+            <div className="w-[12.96rem] h-[12.96rem] mx-auto mb-4 rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all duration-200 hover:scale-105">
                 <Image
                     src={author.avatar}
                     alt={displayName}
@@ -214,7 +214,7 @@ export default function Profile({ author, social, features, researchInterests }:
             </div>
 
             {/* Name and Title */}
-            <div className="text-center mb-6">
+            <div className="text-center mb-2">
                 <div className="text-3xl font-serif font-bold text-primary mb-2 leading-snug">
                     {englishName && <div>{englishName}</div>}
                     {chineseName && (
@@ -224,13 +224,13 @@ export default function Profile({ author, social, features, researchInterests }:
                 <p className="text-lg text-accent font-medium mb-1 whitespace-pre-line">
                     {author.title}
                 </p>
-                <p className="text-lg font-semibold text-neutral-600 mb-2">
+                <p className="text-lg font-semibold text-neutral-600 mb-1">
                     {author.institution}
                 </p>
             </div>
 
             {/* Contact Links */}
-            <div className="flex flex-wrap justify-center gap-2 sm:gap-3 mb-3 relative px-2">
+            <div className="flex flex-wrap justify-center gap-2 sm:gap-3 mb-1 relative px-2">
                 {primaryLinks.map((link) => {
                     const IconComponent = link.icon;
                     if (link.isLocation) {
@@ -395,7 +395,7 @@ export default function Profile({ author, social, features, researchInterests }:
                     );
                 })}
             </div>
-            <div className="flex flex-wrap justify-center gap-2 sm:gap-3 mb-6 relative px-2">
+            <div className="flex flex-wrap justify-center gap-2 sm:gap-3 mb-4 relative px-2">
                 {secondaryLinks.map((link) => {
                     const IconComponent = link.icon;
                     return (
