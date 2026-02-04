@@ -1,13 +1,13 @@
 - **Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship** – Cornell University (*2025*)  
-  *AI-Driven Sustainable Solutions for Energy Systems*  
+  <!-- *AI-Driven Sustainable Solutions for Energy Systems*   -->
   Fellowship recipient supported by Schmidt Sciences, LLC
 
 - **Ezra Scholar in Energy Systems Engineering** – Cornell University (*2024*)  
-  *AI-Enhanced Multimodal Forecasting for Renewable Generation*  
+  <!-- *AI-Enhanced Multimodal Forecasting for Renewable Generation*   -->
   Fellowship recipient supported by the Systems Engineering Program
 
 - **Tsinghua University Cercis Scholar** – Tsinghua University (*2024*)  
-  *AI-Enabled Safe and Reliable Low-Carbon Power System Operations*  
+  <!-- *AI-Enabled Safe and Reliable Low-Carbon Power System Operations*   -->
   Fellowship recipient
 
 <!-- - **National Natural Science Foundation of China (NSFC)** – Grant No. U2066601 (*2020*)  
