@@ -12,14 +12,14 @@ type = "card"
 
   [[sections.items]]
   title = "Schmidt AI in Science Postdoctoral Associate"
-  subtitle = "Cornell University AI for Science Institute, College of Engineering"
+  subtitle = "Cornell University AI for Science Institute, Duffield College of Engineering"
   date = "2025/09 - Present"
   content = "**Mentor:** Prof. Fengqi You in PEESE Lab"
   image = "/Cornell.svg"
 
   [[sections.items]]
   title = "Ezra Postdoctoral Associate"
-  subtitle = "College of Engineering, Cornell University"
+  subtitle = "Duffield College of Engineering, Cornell University"
   date = "2024/09 - 2025/08"
   content = "**Mentor:** Prof. Fengqi You in PEESE Lab"
   image = "/Cornell.svg"
