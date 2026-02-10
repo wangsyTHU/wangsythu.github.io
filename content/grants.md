@@ -1,4 +1,4 @@
-- **Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship** – Cornell University (*2025*)  
+- **Eric and Wendy Schmidt Postdoctoral Fellowship** – Cornell University (*2025*)  
   Fellowship recipient supported by Schmidt Sciences, LLC
   <!-- *AI-Driven Sustainable Solutions for Energy Systems*   -->
 

@@ -1,6 +1,6 @@
 ### Academic service
 
-- **Schmidt AI in Science Postdoctoral Associate, Cornell University**, *Sep 2025–Present*  
+- **Schmidt Postdoctoral Associate, Cornell University**, *Sep 2025–Present*  
   Organize the *Cornell University AI for Sustainability Distinguished Lecture*  
   Organize the *Cornell University AI for Sustainability Frontier Research Colloquium*  
 
