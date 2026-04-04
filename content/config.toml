@@ -1,14 +1,13 @@
 [site]
 title = "Siyuan Wang"
-description = "Schmidt AI in Science Postdoctoral Associate at Cornell University."
+description = "Schmidt Postdoctoral Associate at Cornell University."
 favicon = "/GlowingStar.svg"
 last_updated = "auto"
 
 [author]
 name_en = "Siyuan Wang"
 name_cn = "王思远"
-title = """Schmidt AI in Science
-Postdoctoral Associate"""
+title = "Schmidt Postdoctoral Associate"
 institution = "Cornell University"
 avatar = "/bio.jpg"
 
