@@ -1,6 +1,6 @@
 ### Academic service
 
-- **Schmidt Postdoctoral Associate, Cornell University**, *Sep 2025–Present*  
+- **Schmidt AI in Science Postdoctoral Associate, Cornell University**, *Sep 2025–Present*  
   Organize the *Cornell University AI for Sustainability Distinguished Lecture*  
   Organize the *Cornell University AI for Sustainability Frontier Research Colloquium*  
 
@@ -21,7 +21,6 @@
   *IEEE Transactions on Sustainable Energy*  
   *IEEE Transactions on Power Systems*  
   *IEEE Transactions on Energy Markets, Policy, and Regulation*  
-  *IEEE Transactions on Neural Networks and Learning Systems*  
   *IEEE Power Engineering Letters*  
   *CSEE Journal of Power and Energy Systems*  
   *IEEE Systems Journal*  
@@ -35,7 +34,6 @@
   *Global Energy Interconnection*  
   *Energy Strategy Reviews*  
   *Cyber-Physical Energy Systems*  
-  *Energy Report*  
 
 - **Others**  
   *Science Advances* (AAAS)  

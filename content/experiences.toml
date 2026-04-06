@@ -11,8 +11,8 @@ id = "academic_appointments"
 type = "card"
 
   [[sections.items]]
-  title = "Schmidt Postdoctoral Associate"
-  subtitle = "Duffield College of Engineering, Cornell University"
+  title = "Schmidt AI in Science Postdoctoral Associate"
+  subtitle = "Cornell University AI for Science Institute, Duffield College of Engineering"
   date = "2025/09 - Present"
   content = "**Mentor:** Prof. Fengqi You in PEESE Lab"
   image = "/Cornell.svg"
