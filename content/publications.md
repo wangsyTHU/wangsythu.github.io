@@ -1,11 +1,15 @@
 ### Preprints
 
+1. **S. Wang** and F. You\*, "Ultra-Short-Term Photovoltaic Ramp Forecasting via Physics-Guided Generative Sky Video Prediction", *arXiv preprint*, [arXiv:2605.03165](https://arxiv.org/abs/2605.03165), 2026.
+
 1. **S. Wang**, W. Wu\*, C. Lin, Q. Wang, S. Xu, and B. Chen,"Physics-Informed Recurrent Network for State-Space Modeling of Gas Pipeline Networks", *arXiv preprint*, [arXiv:2502.07230](https://arxiv.org/abs/2502.07230), 2025.
 
 
 ### Journal papers
 
-1. **S. Wang** and W. Wu\*, "Aggregate Flexibility of Virtual Power Plants with Temporal Coupling Constraints," *IEEE Transactions on Smart Grid*, vol. 12, no. 6, pp. 5043-5051, Nov. 2021, doi: [10.1109/TSG.2021.3106646](https://ieeexplore.ieee.org/document/9520661). (***Over 200 Citations***) [[Sample Code](https://github.com/wangsyTHU/sample_of_boundary_shrinkage)]
+1. **S. Wang** and F. You\*, "Cross-Border Electricity Tariffs Undermine Power System Efficiency, Decarbonization and Reliability in North America," *Nature Communications*, doi: [10.1038/s41467-026-77773-w](https://doi.org/10.1038/s41467-026-77773-w), 2026.
+
+1. **S. Wang** and W. Wu\*, "Aggregate Flexibility of Virtual Power Plants with Temporal Coupling Constraints," *IEEE Transactions on Smart Grid*, vol. 12, no. 6, pp. 5043-5051, Nov. 2021, doi: [10.1109/TSG.2021.3106646](https://ieeexplore.ieee.org/document/9520661). (***~300 Citations***) [[Sample Code](https://github.com/wangsyTHU/sample_of_boundary_shrinkage)]
 
 1. **S. Wang**, W. Wu\*, Q. Chen, J. Yu, and P. Wang, "Stochastic Flexibility Evaluation for Virtual Power Plant by Aggregating Distributed Energy Resources," *CSEE Journal of Power and Energy Systems*, vol. 10, no. 3, pp. 988-999, May 2024, doi: [10.17775/CSEEJPES.2021.07410](https://ieeexplore.ieee.org/document/9862584). (***ESI Top 1% Highly Cited Paper in July 2024***)
 

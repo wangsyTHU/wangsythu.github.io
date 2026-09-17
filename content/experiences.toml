@@ -18,6 +18,12 @@ type = "card"
   image = "/Cornell.svg"
 
   [[sections.items]]
+  title = "Visiting Lecturer"
+  subtitle = "Duffield College of Engineering, Cornell University"
+  date = "2026/02 - 2026/05"
+  image = "/Cornell.svg"
+
+  [[sections.items]]
   title = "Ezra Postdoctoral Associate"
   subtitle = "Duffield College of Engineering, Cornell University"
   date = "2024/09 - 2025/08"

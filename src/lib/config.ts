@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import { execSync } from 'child_process';
 import { parse } from 'smol-toml';
 
 export interface SiteConfig {
@@ -61,4 +62,30 @@ export function getConfig(): SiteConfig {
         // Return a default config or throw
         throw new Error('Failed to load content/config.toml');
     }
+}
+
+// Resolves the "Last updated" date shown in the footer from the timestamp of
+// the most recent git commit, so it tracks the last push to GitHub rather
+// than the time the site happened to be built.
+export function getLastUpdated(): string {
+    try {
+        const commitDate = execSync('git log -1 --format=%cI', {
+            cwd: process.cwd(),
+            stdio: ['ignore', 'pipe', 'ignore'],
+        })
+            .toString()
+            .trim();
+        if (commitDate) {
+            return new Date(commitDate).toLocaleDateString('en-US', {
+                year: 'numeric',
+                month: 'long',
+            });
+        }
+    } catch (error) {
+        console.error('Error reading last git commit date:', error);
+    }
+    return new Date().toLocaleDateString('en-US', {
+        year: 'numeric',
+        month: 'long',
+    });
 }

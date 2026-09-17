@@ -3,7 +3,7 @@ import "./globals.css";
 import Navigation from "@/components/layout/Navigation";
 import Footer from "@/components/layout/Footer";
 import { ThemeProvider } from "@/components/ui/ThemeProvider";
-import { getConfig } from "@/lib/config";
+import { getConfig, getLastUpdated } from "@/lib/config";
 
 export async function generateMetadata(): Promise<Metadata> {
   const config = getConfig();
@@ -51,6 +51,10 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   const config = getConfig();
+  const lastUpdated =
+    !config.site.last_updated || config.site.last_updated === 'auto'
+      ? getLastUpdated()
+      : config.site.last_updated;
 
   return (
     <html lang="en" className="scroll-smooth" suppressHydrationWarning>
@@ -87,7 +91,7 @@ export default function RootLayout({
           <main className="min-h-screen pt-16 lg:pt-20">
             {children}
           </main>
-          <Footer lastUpdated={config.site.last_updated} />
+          <Footer lastUpdated={lastUpdated} />
         </ThemeProvider>
       </body>
     </html>
