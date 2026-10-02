@@ -14,7 +14,7 @@ type = "card"
   title = "Schmidt AI in Science Postdoctoral Associate"
   subtitle = "Cornell University AI for Science Institute, Duffield College of Engineering"
   date = "2025/09 - Present"
-  content = "**Mentor:** Prof. Fengqi You in PEESE Lab"
+  content = "**Mentor:** [Prof. Fengqi You](https://www.engineering.cornell.edu/people/fengqi-you/) in [PEESE Lab](https://www.peese.org/)"
   image = "/Cornell.svg"
 
   [[sections.items]]
@@ -27,7 +27,7 @@ type = "card"
   title = "Ezra Postdoctoral Associate"
   subtitle = "Duffield College of Engineering, Cornell University"
   date = "2024/09 - 2025/08"
-  content = "**Mentor:** Prof. Fengqi You in PEESE Lab"
+  content = "**Mentor:** [Prof. Fengqi You](https://www.engineering.cornell.edu/people/fengqi-you/) in [PEESE Lab](https://www.peese.org/)"
   image = "/Cornell.svg"
 
 [[sections]]
@@ -43,8 +43,7 @@ type = "card"
   title = "Ph.D. in Electrical Engineering"
   subtitle = "Department of Electrical Engineering, Tsinghua University"
   date = "2019/08 - 2024/06"
-  content = """**Supervisor:** Prof. Wenchuan Wu<br/>
-**Laboratory:** EMS Lab<br/>"""
+  content = "**Supervisor:** [Prof. Wenchuan Wu](https://www.eea.tsinghua.edu.cn/en/faculties/wuwench.htm) in [EMS Lab](https://www.eea.tsinghua.edu.cn/en/info/1009/1780.htm)"
   image = "/Tsinghua.svg"
 
   [[sections.items]]

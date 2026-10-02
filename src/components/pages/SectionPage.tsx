@@ -144,6 +144,14 @@ export default function SectionPage({ title, description, sections, embedded = f
                                                                 li: ({ children }) => <li className="mb-1">{children}</li>,
                                                                 strong: ({ children }) => <strong className="font-semibold dark:text-white">{children}</strong>,
                                                                 em: ({ children }) => <em className="italic text-neutral-600 dark:text-white">{children}</em>,
+                                                                a: ({ ...props }) => (
+                                                                    <a
+                                                                        {...props}
+                                                                        target="_blank"
+                                                                        rel="noopener noreferrer"
+                                                                        className="text-accent transition-all duration-200 rounded hover:bg-accent/10 hover:shadow-sm"
+                                                                    />
+                                                                ),
                                                             }}
                                                         >
                                                             {item.content}

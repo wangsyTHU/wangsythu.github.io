@@ -2,6 +2,10 @@ type = "list"
 title = "News"
 
 [[items]]
+date = "2026-10"
+content = "Our paper entitled *Cross-Border Electricity Tariffs Undermine Power System Efficiency, Decarbonization and Reliability in North America* has been published in *Nature Communications* and featured by **Cornell Chronicle**: [Tariffs on Canadian power could raise costs, emissions and grid risks](https://news.cornell.edu/stories/2026/10/tariffs-canadian-power-could-raise-costs-emissions-and-grid-risks)."
+
+[[items]]
 date = "2026-07"
 content = "Our paper entitled *Cross-Border Electricity Tariffs Undermine Power System Efficiency, Decarbonization and Reliability in North America* has been **accepted in principle** by *Nature Communications*."
 

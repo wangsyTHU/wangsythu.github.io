@@ -7,7 +7,7 @@
 
 ### Journal papers
 
-1. **S. Wang** and F. You\*, "Cross-Border Electricity Tariffs Undermine Power System Efficiency, Decarbonization and Reliability in North America," *Nature Communications*, doi: [10.1038/s41467-026-77773-w](https://doi.org/10.1038/s41467-026-77773-w), 2026.
+1. **S. Wang** and F. You\*, "Cross-Border Electricity Tariffs Undermine Power System Efficiency, Decarbonization and Reliability in North America," *Nature Communications*, vol. 17, Art. no. 9696, Oct. 2026, doi: [10.1038/s41467-026-77773-w](https://www.nature.com/articles/s41467-026-77773-w).
 
 1. **S. Wang** and W. Wu\*, "Aggregate Flexibility of Virtual Power Plants with Temporal Coupling Constraints," *IEEE Transactions on Smart Grid*, vol. 12, no. 6, pp. 5043-5051, Nov. 2021, doi: [10.1109/TSG.2021.3106646](https://ieeexplore.ieee.org/document/9520661). (***~300 Citations***) [[Sample Code](https://github.com/wangsyTHU/sample_of_boundary_shrinkage)]
 

@@ -218,7 +218,7 @@ export default function Profile({ author, social, features, researchInterests }:
                 <div className="text-3xl font-serif font-bold text-primary mb-2 leading-snug">
                     {englishName && <div>{englishName}</div>}
                     {chineseName && (
-                        <div className={`${englishName ? 'mt-1 ' : ''}text-2xl`}>{chineseName}</div>
+                        <div className={`${englishName ? 'mt-1 ' : ''}text-2xl`} style={{ fontFamily: "SimHei, '黑体', 'Heiti SC', 'PingFang SC', sans-serif" }}>{chineseName}</div>
                     )}
                 </div>
                 <p className="text-lg text-accent font-medium mb-1 whitespace-pre-line">
