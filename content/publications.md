@@ -35,6 +35,8 @@
 
 1. W. Wu\*, B. Zhang, H. Sun, B. Wang, Y. Yang, H. Liu, C. Lin and **S. Wang** “Energy Management and Distributed Energy Resources Cluster Control for Active Distribution Networks,” *Automation of Electric Power Systems*, vol. 44, no. 09, pp. 111–118, May 2020, doi: [10.7500/AEPS20191030001](http://www.aeps-info.com/aeps/article/abstract/20191030001).
 
+1. C. Wang, C. Lin\*, D. Liu, **S. Wang**, G. Wu, and W. Wu, “Microgrid Network Reconfiguration Method for Grid-connected Flexibility Enhancement,” *Automation of Electric Power Systems*, vol. 50, no. 03, pp. 57–66, Feb. 2026, doi: [10.7500/AEPS20250515001](http://www.aeps-info.com/aeps/article/abstract/20250515001).
+
 
 
 ### Conference papers
