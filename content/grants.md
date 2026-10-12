@@ -2,7 +2,7 @@
   Fellowship recipient supported by Schmidt Sciences, LLC
   <!-- *AI-Driven Sustainable Solutions for Energy Systems*   -->
 
-- **Ezra Scholar in Energy Systems Engineering** – Cornell University (*2024*)  
+- **Ezra Systems Scholar** – Cornell University (*2024*)  
   Fellowship recipient supported by the Systems Engineering Program
   <!-- *AI-Enhanced Multimodal Forecasting for Renewable Generation*   -->
 
