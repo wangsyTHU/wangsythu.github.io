@@ -25,6 +25,8 @@
 
 1. C. Feng, **S. Wang**, H. O. Gao and F. You\*, "Optimal Participation Design of DERs in General Frequency Shaping Services," *IEEE Transactions on Power Systems*, vol. 41, no. 1, pp. 682-694, Jan. 2026, doi: [10.1109/TPWRS.2025.3586137](https://ieeexplore.ieee.org/document/11074769).
 
+1. A. Lal, **S. Wang**, and F. You\*, "Can Small Modular Reactors Enable State-Specific Energy Portfolios for US AI Ambitions through 2035?" *Environmental Science & Technology*, (*Accepted*).
+
 1. Arjun M., **S. Wang**, M. Ramteke, H. Kodamana\*, and F. You\*, "Hierarchical Reinforcement Learning for Degradation-Aware and Coordinated Control of Virtual Power Plants," *Industrial & Engineering Chemistry Research*, Nov. 2026, doi: [10.1021/acs.iecr.6c03278](https://pubs.acs.org/iecred/article/doi/10.1021/acs.iecr.6c03278/5466004/Hierarchical-Reinforcement-Learning-for).
 
 1. L. Weng, **S. Wang**, W. Zheng\*, L. Yang, and J. Zhu, “Flexibility Resource Aggregation Model Based on Improved Boundary Shrinkage Algorithm,” *Shandong Electric Power*, vol. 52, no. 1, pp. 1-11, Jan. 2025, doi: [10.20097/j.cnki.issn1007-9904.2025.01.001](https://sddj.cbpt.cnki.net/portal/journal/portal/client/paper/c195f7d724978ecae3d4a2a81683b7c6).
